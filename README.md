@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @myone1010
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-myone1010/myone1010 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hello, this is Myone.
+I love program development and am especially talented at front-end development.
+I have over 6 years of experience as a front-end developer.
+I have managed many orders from customers with diverse needs and have been happy to be able to satisfy them.
+When it comes to managing my work, being on time is always the most important thing to me, so I have never stayed up late to get work done.
+This is because the first element of credit collateral is time.
