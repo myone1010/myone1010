@@ -9,10 +9,10 @@
                                                **   *.                     .*   **
                                                  **    *. _ _ _ _ _ _ _ .*    **
                                                    **                       **
-                                                             FrogDev
+                                              👋             FrogDev
 ```
 
-<h3 align="center">👋 Full stack engineer 👨‍💻</h3>
+<h3 align="center">Full stack engineer 👨‍💻</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=myone1010&label=Profile%20views&color=0e75b6&style=flat" alt="myone1010" /> </p>
 
 ### 📊 GitHub Stats:
